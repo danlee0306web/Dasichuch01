@@ -90,7 +90,7 @@ $(function(){
      <div class="Content">
        <div class="Wrap">
          <img src="uploads/news/news-01.jpg" alt="" class="NewsImg">
-         <p class="NewsDate">2016/10/16</p>
+         <p class="NewsDate">2016/11/13</p>
          <p class="NewsTitle">一.本主日是十一奉獻主日，請兄姐用實際的行動來回應上帝的恩典。</p>
          <p class="NewsTitle">二.下主日(20日)是感恩節，請兄姐用實際的行動來回應上帝的恩典。</p>
          <p class="NewsTitle">三.下主日(20日)禮拜後，將舉行全教會大掃除，請兄姐預備心，踴躍參與清掃事工的服事。</p>
