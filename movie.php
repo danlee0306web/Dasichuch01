@@ -96,10 +96,10 @@ $(function(){
       <div class="Wrap">
         <p></p>
         <div id="Movie">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/8Y_AUsUmCEM" frameborder="0" allowfullscreen></iframe>
+
         </div>
         <div id="Movie">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/0Q444bzsehU" frameborder="0" allowfullscreen></iframe>
+        
         </div>
         <p class="NewsDate"></p>
         <p class="NewsTitle"></p>
